@@ -1,5 +1,5 @@
 # Fuel-Consumption-Prediction-Model
-# Fuel Efficiency and Emissions Analysis
+## Fuel Efficiency and Emissions Analysis
 
 This project involves analyzing vehicle fuel efficiency and emissions data using machine learning techniques. The dataset is cleaned, preprocessed, and used to build predictive models to estimate fuel costs, CO2 emissions, and other relevant metrics.
 
@@ -91,6 +91,4 @@ This project involves analyzing vehicle fuel efficiency and emissions data using
 - Modify hyperparameters for models like KNN (`n_neighbors`) or SVM for better performance.
 - Ensure numerical data scales are compatible, especially for KNN and SVM.
 
-## Contact
 
-For any queries or suggestions, feel free to reach out via GitHub Issues.
